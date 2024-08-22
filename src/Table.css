@@ -1,0 +1,33 @@
+/* src/Table.css */
+.table-container {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .data-table th, .data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .data-table th {
+    background-color: #f4f4f4;
+    text-align: left;
+  }
+
+  h1{
+    text-align: center;
+  }
